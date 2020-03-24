@@ -8,6 +8,6 @@ public class ApiController {
 	@RequestMapping("/data")
 	public String Data()
 	{
-		return "Data Depo Test Jenkins Docker";
+		return "Data API Success Deploy...";
 	}
 }
