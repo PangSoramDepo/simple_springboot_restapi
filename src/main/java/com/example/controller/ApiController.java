@@ -8,6 +8,6 @@ public class ApiController {
 	@RequestMapping("/data")
 	public String Data()
 	{
-		return "Today Is Wednesday...";
+		return "Today Is Wednesday na...";
 	}
 }
